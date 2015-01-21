@@ -14,9 +14,9 @@ Runs the parsing script that requires
 
 to generate the output 
 
-##### resulting_en.yml
+##### en.yml
 
-##### resulting_tags.yml
+##### tags.yml
 
 ---
 
